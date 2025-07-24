@@ -5,7 +5,7 @@
 ---
 
 ## 📄 Resume
-[Download My ATS-Friendly CV (PDF)](./Omar_Essam_CV.pdf)
+[Download My ATS-Friendly CV (PDF)](./Omar_CV.pdf)
 
 ---
 
